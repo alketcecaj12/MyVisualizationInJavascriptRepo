@@ -1,0 +1,24 @@
+{
+
+  "category": "Animals",
+  "children":[
+      {
+        "category": "cats",
+        "children": [
+          {"category": "Siamese"},
+          {"category": "Tabby"},
+          {"category": "Bengal"}
+          ]
+        },
+        {
+          "category": "dogs",
+          "children": [
+          {"category": "Golden Retriever"},
+          {"category": "Fox"},
+          {"category": "My Black Lab"}
+
+
+          ]
+        }
+      ]
+}
